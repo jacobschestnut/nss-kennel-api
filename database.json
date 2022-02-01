@@ -13,6 +13,20 @@
             "breed": "Beagle",
             "customerId": 2,
             "locationId": 1
+        },
+        {
+            "id": 3,
+            "name": "Ruby",
+            "breed": "Lab",
+            "customerId": 3,
+            "locationId": 1
+        },
+        {
+            "id": 4,
+            "name": "Cayanne",
+            "breed": "Blue Healer",
+            "customerId": 4,
+            "locationId": 2
         }
     ],
     "customers": [
@@ -25,6 +39,16 @@
             "id": 2,
             "name": "Trevor Guinn",
             "address": "123 NSS Ln"
+        },
+        {
+            "id": 3,
+            "name": "Lance Bass",
+            "address": "123 Road St"
+        },
+        {
+            "id": 4,
+            "name": "Hot Daniel",
+            "address": "456 Ooo"
         }
     ],
     "employees": [],
