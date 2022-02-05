@@ -51,7 +51,18 @@
             "address": "456 Ooo"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Ice T",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Tobe Maguire",
+            "locationId": 2
+        }
+    ],
     "locations": [
         {
             "id": 1,
