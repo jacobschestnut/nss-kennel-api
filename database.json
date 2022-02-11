@@ -4,117 +4,123 @@
       "id": 1,
       "name": "Cayanne",
       "breed": "Blue Healer",
+      "customerId": 1,
+      "locationId": 4
+    },
+    {
+      "id": 2,
+      "name": "Ruby",
+      "breed": "Lab",
+      "customerId": 2,
+      "locationId": 5
+    },
+    {
+      "id": 3,
+      "name": "Major",
+      "breed": "Lab",
+      "customerId": 3,
+      "locationId": 1
+    },
+    {
+      "id": 4,
+      "name": "Kia",
+      "breed": "Husky",
       "customerId": 4,
       "locationId": 2
     },
     {
-        "id": 2,
-        "name": "Cayanne",
-        "breed": "Blue Healer",
-        "customerId": 4,
-        "locationId": 2
-      },
-      {
-        "id": 3,
-        "name": "Cayanne",
-        "breed": "Blue Healer",
-        "customerId": 4,
-        "locationId": 2
-      },
-      {
-        "id": 4,
-        "name": "Cayanne",
-        "breed": "Blue Healer",
-        "customerId": 4,
-        "locationId": 2
-      },
-      {
-        "id": 5,
-        "name": "Cayanne",
-        "breed": "Blue Healer",
-        "customerId": 4,
-        "locationId": 2
-      }
+      "id": 5,
+      "name": "Savannah",
+      "breed": "Dummy",
+      "customerId": 5,
+      "locationId": 3
+    }
   ],
   "customers": [
     {
       "id": 1,
       "name": "Sydney Noh",
-      "address": "976 Software School Rd."
+      "address": "976 Software School Rd.",
+      "phone": "615-200-7895"
     },
     {
       "id": 2,
       "name": "Trevor Guinn",
-      "address": "123 NSS Ln"
+      "address": "123 NSS Ln.",
+      "phone": "450-322-3596"
     },
     {
       "id": 3,
       "name": "Lance Bass",
-      "address": "123 Road St"
+      "address": "456 Road St.",
+      "phone": "123-428-1248"
+      
     },
     {
       "id": 4,
       "name": "John",
-      "address": "456 Ooo"
+      "address": "456 Oops Dr.",
+      "phone": "371-529-9356"
     },
     {
-        "id": 5,
-        "name": "Lance Bass",
-        "address": "123 Road St"
-      }
+      "id": 5,
+      "name": "Stance Bass",
+      "address": "123 Road St.",
+      "phone": "615-867-5309"
+    }
   ],
   "employees": [
     {
       "id": 1,
-      "name": "Tobe Maguire",
+      "name": "Michael Douglas",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Michelle Obama",
+      "locationId": 4
+    },
+    {
+      "id": 3,
+      "name": "James from Accounting",
       "locationId": 2
     },
     {
-        "id": 2,
-        "name": "Tobe Maguire",
-        "locationId": 2
-    },
-    {
-        "id": 3,
-        "name": "Tobe Maguire",
-        "locationId": 2
-    },
-    {
-        "id": 4,
-        "name": "Tobe Maguire",
-        "locationId": 2
+      "id": 4,
+      "name": "Mace Windu",
+      "locationId": 5
     },
     {
       "id": 5,
-      "name": "Tobe Maguire",
-      "locationId": 2
+      "name": "Michael Douglas 2",
+      "locationId": 3
     }
   ],
   "locations": [
     {
       "id": 1,
       "name": "Nashville South",
-      "address": "209 Emory Drive"
+      "address": "209 Emory Dr."
     },
     {
-        "id": 2,
-        "name": "Nashville South",
-        "address": "209 Emory Drive"
-      },
-      {
-        "id": 3,
-        "name": "Nashville South",
-        "address": "209 Emory Drive"
-      },
-      {
-        "id": 4,
-        "name": "Nashville South",
-        "address": "209 Emory Drive"
-      },
-      {
-        "id": 5,
-        "name": "Nashville South",
-        "address": "209 Emory Drive"
-      }
+      "id": 2,
+      "name": "Nashville North",
+      "address": "420 Jeremy Dr."
+    },
+    {
+      "id": 3,
+      "name": "Nashville East",
+      "address": "73 Tiny St."
+    },
+    {
+      "id": 4,
+      "name": "Nashville West",
+      "address": "9000 Big Way"
+    },
+    {
+      "id": 5,
+      "name": "Nashville Main",
+      "address": "182 Nice Rd."
+    }
   ]
 }
