@@ -1,13 +1,6 @@
 {
   "animals": [
     {
-      "id": 1,
-      "name": "Cayanne",
-      "breed": "Blue Healer",
-      "customerId": 1,
-      "locationId": 4
-    },
-    {
       "id": 2,
       "name": "Ruby",
       "breed": "Lab",
@@ -41,39 +34,48 @@
       "id": 1,
       "name": "Sydney Noh",
       "address": "976 Software School Rd.",
-      "phone": "615-200-7895"
+      "phone": "615-200-7895",
+      "email": "syd@test.com"
     },
     {
       "id": 2,
       "name": "Trevor Guinn",
       "address": "123 NSS Ln.",
-      "phone": "450-322-3596"
+      "phone": "450-322-3596",
+      "email": "trev@test.com"
     },
     {
       "id": 3,
       "name": "Lance Bass",
       "address": "456 Road St.",
-      "phone": "123-428-1248"
-      
+      "phone": "123-428-1248",
+      "email": "lance@test.com"
     },
     {
       "id": 4,
       "name": "John",
       "address": "456 Oops Dr.",
-      "phone": "371-529-9356"
+      "phone": "371-529-9356",
+      "email": "john@test.com"
     },
     {
       "id": 5,
       "name": "Stance Bass",
       "address": "123 Road St.",
-      "phone": "615-867-5309"
+      "phone": "615-867-5309",
+      "email": "stance@test.com"
+    },
+    {
+      "email": "jake@test.com",
+      "name": "jake chestnut",
+      "id": 6
     }
   ],
   "employees": [
     {
       "id": 1,
-      "name": "Michael Douglas",
-      "locationId": 1
+      "name": "Michael Douglas the Original one",
+      "locationId": "4"
     },
     {
       "id": 2,
@@ -99,7 +101,7 @@
   "locations": [
     {
       "id": 1,
-      "name": "Nashville South",
+      "name": "Nashville Smouth",
       "address": "209 Emory Dr."
     },
     {
